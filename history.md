@@ -60,3 +60,17 @@
 * Hibernate热身，复习为知笔记上Jdbc笔记；
 
 	today is a good day. 还算做了些事情。目前论文大致有一万字。
+
+
+2016.12.25
+# 上午
+* 完成jdbc git仓库的创建及完成jdbc的基础功能
+
+# 下午
+* 完善hiberante在github上仓库；
+* 复习hibernate相关知识；
+
+# 晚上
+* 复习Hibernate相关知识；
+
+	又陷入Hibernate对象状态中的细节之路，Hibernate缓存没有理解，追源码无果。今晚没什么进展，不能陷入细节！明天开始Hibernate论文写作。

@@ -37,5 +37,8 @@
 2016.12.24
 * 复习Hibernate应该先复习好Jdbc相关知识，需要新建一个Jdbc仓库；
 
-
+2016.12.25
+* <精通Hibernate>P58的图需要放入论文Hibernate部分的写作中；
+* 需要学习Hiberante新的连接数据库的方法；
+* 《精通Hibernate》P183两个图可考虑放进论文Hibernat部分的写作中；
 
